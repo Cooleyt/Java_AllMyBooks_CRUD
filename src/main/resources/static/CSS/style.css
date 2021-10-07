@@ -1,0 +1,32 @@
+@charset "ISO-8859-1";
+
+
+h1{
+	color: yellow;
+	font-size: 80px;
+}
+
+body {
+	background-color: #a78fca;
+	background-image: url("data:image/svg+xml,%3Csvg width='40' height='1' viewBox='0 0 40 1' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M0 0h20v1H0z' fill='%2302271c' fill-opacity='0.4' fill-rule='evenodd'/%3E%3C/svg%3E");
+	align-items: center;
+	padding:10%;
+	margin-left: 10%;
+}
+
+th{
+	color: yellow;
+	font-size: 30px;
+	border: solid black 1px;
+	padding: 20px;
+}
+
+td{
+	font-weight: bold;
+	font-size: 20px;
+	padding: 20px;
+}
+
+button{
+	background-color:yellow;
+}
